@@ -1,0 +1,105 @@
+{
+    "title": "Jesús Martín Vergara",
+    "description": "Soy Jesús Martín, Ingeniero Software y programador full stack",
+    "image": "/favicon.ico",
+    "avatar": "/avatar.jpg",
+    "name": "Jesús Martín Vergara",
+    "skill": "Ingeniero Software",
+    "location": "Sevilla",
+    "media": {
+        "email": "jesusperike@gmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/jesmarver",
+        "likedin": "https://www.linkedin.com/in/jes%C3%BAs-mart%C3%ADn-vergara"
+    },
+    "about": "Soy Ingeniero Software especializado en desarrollo de aplicaciones multiplataformas con flutter. Actualmente me encuentro realizando cursos de Python, Java y NodeJS para seguir aprendiendo nuevas tecnologías de vanguardia.",
+    "technologies": [
+        {
+            "icon": "devicon-flutter-plain",
+            "name": "Flutter"
+        },
+        {
+            "icon": "devicon-nodejs-plain",
+            "name": "Node.js"
+        },
+        {
+            "icon": "devicon-firebase-plain",
+            "name": "Firebase"
+        },
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        },
+        {
+            "icon": "devicon-java-plain",
+            "name": "Java"
+        },
+        {
+            "icon": "devicon-javascript-plain",
+            "name": "JavaScript"
+        },
+        {
+            "icon": "devicon-express-original",
+            "name": "Express"
+        },
+        {
+            "icon": "devicon-typescript-plain",
+            "name": "TypeScript"
+        },
+        {
+            "icon": "devicon-docker-plain",
+            "name": "Docker"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "tablet-smartphone",
+            "title": "Soltel Group",
+            "subtitle": "Desarrollador Full Stack",
+            "description": "Principal desarrollollador de la aplicación móvil de la empresa. Desarrollo, diseño y despliegue de la app en producción. Mantenimiento de la aplicación y backend con Firebase, Node.js y Google Cloud Functions. Integración de pagos con Stripe y Revenuecat.",
+            "date": "2024 - 2025",
+            "url": "https://www.soltel.es/"
+        },
+        {
+            "icon": "rocket",
+            "title": "Fidetia",
+            "subtitle": "Desarrollador becario",
+            "description": "Me encargué del desarrollo de aplicaciones multiplataformas con flutter. Despliegue en tiendas oficiales (App Store, Play Store, Amazon Appstore) y en web mediante protocolo ftp (FileZilla). Desarrollo de backend con Node.js y Google Cloud Functions. Uso de gitlab para el control de versiones.",
+            "date": "2023 - 2024",
+            "url": "https://www.fidetia.es/"
+        },
+        {
+            "icon": "code",
+            "title": "Youforget.me",
+            "subtitle": "Desarrollador en prácticas",
+            "description": "Aprendí a usar el framework flutter para el desarrollo de aplicaciones multiplataformas. Me encargué del desarrollo y mantenimiento de la aplicación de la empresa.",
+            "date": "2022 - 2023",
+            "url": "https://youforget.me/"
+        }
+    ],
+    "projects": [],
+    "training": [
+        {
+            "icon": "graduation-cap",
+            "title": "Grado en Ingeniería del Software",
+            "subtitle": "Escuela Técnica Superior de Ingeniería Informática",
+            "description": "Aprendí principios de desarrollo software (SOLID, Arquitectura Limpia, Patrones de diseño...). Proyectos con Springboot, Ci/CD, docker, kubernetes, Java, C/C++, Python, Matlab",
+            "date": "2019 - 2025"
+        },
+        {
+            "icon": "backpack",
+            "title": "Bachillerato de Ciencias",
+            "subtitle": "IES Profesor Blas Infante",
+            "description": "",
+            "date": "2017 - 2019"
+        },
+        {
+            "icon": "languages",
+            "title": "Inglés B1",
+            "subtitle": "Academia Cambridge",
+            "description": "",
+            "date": "2018"
+        }
+    ],
+    "extras": []
+}
