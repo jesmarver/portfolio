@@ -27,7 +27,7 @@ class Info:
         self.image = image
         self.url = url
         self.github = github
-
+        
 
 class Extra:
     def __init__(self, image, title, description, url):
@@ -53,7 +53,8 @@ class Data:
             experience,
             projects,
             training,
-            extras
+            extras,
+            courses
     ):
         self.title = title
         self.description = description
@@ -69,6 +70,7 @@ class Data:
         self.projects = [Info(**info) for info in projects]
         self.training = [Info(**info) for info in training]
         self.extras = [Extra(**info) for info in extras]
+        self.courses = [Info(**course) for course in courses]
 
 
 with open("assets/data/data.json") as file:

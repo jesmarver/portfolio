@@ -10,9 +10,9 @@
         "email": "jesusperike@gmail.com",
         "cv": "/data/cv.pdf",
         "github": "https://github.com/jesmarver",
-        "likedin": "https://www.linkedin.com/in/jes%C3%BAs-mart%C3%ADn-vergara"
+        "likedin": "https://www.linkedin.com/in/jesmarver"
     },
-    "about": "Soy Ingeniero Software especializado en desarrollo de aplicaciones multiplataformas con flutter. Actualmente me encuentro realizando cursos de Python, Java y NodeJS para seguir aprendiendo nuevas tecnologías de vanguardia.",
+    "about": "¡Hola! Soy un ingeniero de software con más de 3 años de experiencia desarrollando aplicaciones y soluciones digitales. Me encanta crear productos que sean útiles, agradables y con una buena dosis de cariño por los detalles.\n\nHe trabajado principalmente con Flutter, Node.js y Firebase, construyendo desde apps móviles hasta sistemas backend completos. También me manejo con Python, Spring y React, lo que me permite moverme con soltura entre distintos entornos y tecnologías según lo que el proyecto necesite.\n\nDisfruto trabajar en equipo, aprender cosas nuevas y enfrentarme a retos que me hagan crecer como desarrollador. Si el código puede ser limpio, escalable y bonito… ¡mucho mejor! 🚀",
     "technologies": [
         {
             "icon": "devicon-flutter-plain",
@@ -25,6 +25,10 @@
         {
             "icon": "devicon-firebase-plain",
             "name": "Firebase"
+        },
+        {
+            "icon": "devicon-react-original",
+            "name": "React"
         },
         {
             "icon": "devicon-python-plain",
@@ -77,7 +81,72 @@
             "url": "https://youforget.me/"
         }
     ],
-    "projects": [],
+    "projects": [
+        {
+            "icon": "shopping-cart",
+            "title": "Teslo Shop",
+            "subtitle": "React + TypeScript",
+            "description": "Aplicación responsive de tienda de ropa. Incluye dashboard de administrador, CRUD para productos, paginación, autenticación...",
+            "technologies": [
+                {
+                    "icon": "devicon-react-original",
+                    "name": "React"
+                },
+                {
+                    "icon": "devicon-typescript-plain",
+                    "name": "TypeScript"
+                }
+            ],
+            "image": "/teslo-shop.png",
+            "github": "https://github.com/jesmarver/teslo-shop-react.git",
+            "url": "https://teslo-shop-react-jesmarver.netlify.app"
+        },
+        {
+            "icon": "person-standing",
+            "title": "Heroes App",
+            "subtitle": "React + TypeScript",
+            "description": "Aplicación responsive de información de superhéroes y villanos de Marvel y DC. Contiene paginación, búsqueda, filtros...",
+            "technologies": [
+                {
+                    "icon": "devicon-react-original",
+                    "name": "React"
+                },
+                {
+                    "icon": "devicon-typescript-plain",
+                    "name": "TypeScript"
+                }
+            ],
+            "image": "/heroes-app.png",
+            "github": "https://github.com/jesmarver/heroes-app",
+            "url": "https://curious-lollipop-6e8845.netlify.app/"
+        },
+        {
+            "icon": "map",
+            "title": "Maps App Flutter",
+            "subtitle": "Flutter + Google Maps + Bloc",
+            "description": "Aplicación de mapas estilo Uber.",
+            "technologies": [
+                {
+                    "icon": "devicon-flutter-plain",
+                    "name": "Flutter"
+                }
+            ],
+            "github": "https://github.com/jesmarver/maps_app_flutter"
+        },
+        {
+            "icon": "message-circle-more",
+            "title": "Chat App",
+            "subtitle": "Flutter + Provider",
+            "description": "Aplicación de chat",
+            "technologies": [
+                {
+                    "icon": "devicon-flutter-plain",
+                    "name": "Flutter"
+                }
+            ],
+            "github": "https://github.com/jesmarver/flutter-chat-app"
+        }
+    ],
     "training": [
         {
             "icon": "graduation-cap",
@@ -99,6 +168,64 @@
             "subtitle": "Academia Cambridge",
             "description": "",
             "date": "2018"
+        }
+    ],
+    "courses": [
+        {
+            "icon": "server",
+            "title": "NodeJS: De cero a experto",
+            "subtitle": "Clean Architecture, DDD, WebHooks, WebSockets, Tareas automáticas, Despliegues, TypeScript, Edge, Testing y más",
+            "description": "",
+            "date": "2025",
+            "certificate": "https://www.udemy.com/certificate/UC-abb024df-b1c8-43c3-a172-23432238190a/",
+            "technologies": [
+                {
+                    "icon": "devicon-nodejs-plain",
+                    "name": "NodeJS"
+                },
+                {
+                    "icon": "devicon-typescript-plain",
+                    "name": "TypeScript"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "icon": "devicon-github-original",
+                    "name": "CI/CD"
+                },
+                {
+                    "icon": "devicon-insomnia-plain",
+                    "name": "API RESTful"
+                }
+            ],
+            "image": "/curso-node.jpg",
+            "url": "https://www.udemy.com/course/nodejs-de-cero-a-experto/"
+        },
+        {
+            "icon": "panels-top-left",
+            "title": "React: De cero a experto - Edición 2025",
+            "subtitle": "Context API, MERN, Hooks, Firestore, JWT, Testing, Autenticaciones, Despliegues, AI, CRUD, Logs, MUI, Multiple Routers..",
+            "description": "",
+            "date": "2025",
+            "certificate": "https://www.udemy.com/certificate/UC-7a789922-9011-46fc-8dfc-f4546492cb3c/",
+            "technologies": [
+                {
+                    "icon": "devicon-react-original",
+                    "name": "React"
+                },
+                {
+                    "icon": "devicon-typescript-plain",
+                    "name": "TypeScript"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                }
+            ],
+            "image": "/curso-react.jpg",
+            "url": "https://www.udemy.com/course/react-cero-experto "
         }
     ],
     "extras": []

@@ -8,3 +8,9 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
 Este proyecto es una página web desarrollada para la creación del portafolio de presentación de Jesús Martín.
+
+# Dev
+1. Crear un entorno virtual de python. (Ej. `python -m venv venv`)
+2. Instalar la dependencia de reflex con `pip install reflex`.
+3. Inicializar reflex con `reflex init`.
+4. Ejecutar el proyecto con `reflex run`.
