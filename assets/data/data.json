@@ -23,16 +23,20 @@
             "name": "Node.js"
         },
         {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        },
+        {
+            "icon": "devicon-django-plain",
+            "name": "Django"
+        },
+        {
             "icon": "devicon-firebase-plain",
             "name": "Firebase"
         },
         {
             "icon": "devicon-react-original",
             "name": "React"
-        },
-        {
-            "icon": "devicon-python-plain",
-            "name": "Python"
         },
         {
             "icon": "devicon-java-plain",
@@ -53,9 +57,25 @@
         {
             "icon": "devicon-docker-plain",
             "name": "Docker"
+        },
+        {
+            "icon": "devicon-docker-plain",
+            "name": "Docker"
+        },
+        {
+            "icon": "devicon-kubernetes-plain",
+            "name": "Kubernetes"
         }
     ],
     "experience": [
+        {
+            "icon": "car",
+            "title": "Sin Vueltas Soluciones DG",
+            "subtitle": "Desarrollador Full Stack",
+            "description": "Como desarrollador de la app NoTurns tuve la responsabilidad de encargarme tanto del frontend (Flutter) como del backend (Django + Postgres). Tuve que adaptarme a una nueva tecnología (Django) y aprender a trabajar con bases de datos relacionales. También me encargué del despliegue de la app en producción y del mantenimiento de la misma.",
+            "date": "2025 - 2026",
+            "url": "https://noturnsapp.org/"
+        },
         {
             "icon": "tablet-smartphone",
             "title": "Soltel Group",
@@ -171,6 +191,26 @@
         }
     ],
     "courses": [
+        {
+            "icon": "container",
+            "title": "Docker - Guía práctica de uso para desarrolladores",
+            "subtitle": "Dockerfile, Compose, DockerHub, Registros, Despliegues, Volúmenes, Multi-staged builds, Multi architecture builds, y más",
+            "description": "En este curso he aprendido a usar Docker para crear contenedores y gestionar aplicaciones de manera eficiente. He trabajado con Dockerfile, Compose, y he aprendido a desplegar aplicaciones en diferentes entornos.",
+            "date": "2026",
+            "certificate": "https://ude.my/UC-d0f057f0-47f7-403a-8f44-92d11999fd40",
+            "technologies": [
+                {
+                    "icon": "devicon-docker-plain",
+                    "name": "Docker"
+                },
+                {
+                    "icon": "devicon-kubernetes-plain",
+                    "name": "Kubernetes"
+                }
+            ],
+            "image": "/curso-docker.jpg",
+            "url": "https://www.udemy.com/course/docker-guia-practica/"
+        },
         {
             "icon": "server",
             "title": "NodeJS: De cero a experto",
