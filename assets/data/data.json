@@ -12,7 +12,7 @@
         "github": "https://github.com/jesmarver",
         "likedin": "https://www.linkedin.com/in/jesmarver"
     },
-    "about": "¡Hola! Soy un ingeniero de software con más de 3 años de experiencia desarrollando aplicaciones y soluciones digitales. Me encanta crear productos que sean útiles, agradables y con una buena dosis de cariño por los detalles.\n\nHe trabajado principalmente con Flutter, Node.js y Firebase, construyendo desde apps móviles hasta sistemas backend completos. También me manejo con Python, Spring y React, lo que me permite moverme con soltura entre distintos entornos y tecnologías según lo que el proyecto necesite.\n\nDisfruto trabajar en equipo, aprender cosas nuevas y enfrentarme a retos que me hagan crecer como desarrollador. Si el código puede ser limpio, escalable y bonito… ¡mucho mejor! 🚀",
+    "about": "¡Hola! Soy un ingeniero de software con más de 4 años de experiencia desarrollando aplicaciones y soluciones digitales. Me encanta crear productos que sean útiles, agradables y con una buena dosis de cariño por los detalles.\n\nHe trabajado principalmente con Flutter, React, Node.js, Django y Firebase, construyendo desde apps móviles hasta sistemas backend completos. Desarrollo código super rápido gracias a Agentes de IA lo cual me permite adaptarme a cualquier proyecto en poco tiempo.\n\nDisfruto trabajar en equipo, aprender cosas nuevas y enfrentarme a retos que me hagan crecer como desarrollador. Si el código puede ser limpio, escalable y bonito… ¡mucho mejor! 🚀",
     "technologies": [
         {
             "icon": "devicon-flutter-plain",
@@ -69,11 +69,19 @@
     ],
     "experience": [
         {
+            "icon": "plane",
+            "title": "Alten Spain",
+            "subtitle": "Ingeniero de Software",
+            "description": "Como Ingeniero Software mi tarea es la de desarrollar, documentar, migrar, configurar, automatizar proyectos industriales para el cliente AIRBUS DS.\nConvertir la idea del cliente en realidad gracias a la eficiente toma de requisitos y documentos excels.\nDesarrollo guiado por IA lo cual permite unos tiempos de entrega super rápidos en cada sprint.\nIntegración de modelos de IA para proyectos (chatbots, clasificación, embeddings, etc.)",
+            "date": "Jul 2026 - actual",
+            "url": "https://www.alten.es/"
+        },
+        {
             "icon": "car",
             "title": "Sin Vueltas Soluciones DG",
             "subtitle": "Desarrollador Full Stack",
             "description": "Como desarrollador de la app NoTurns tuve la responsabilidad de encargarme tanto del frontend (Flutter) como del backend (Django + Postgres). Tuve que adaptarme a una nueva tecnología (Django) y aprender a trabajar con bases de datos relacionales. También me encargué del despliegue de la app en producción y del mantenimiento de la misma.",
-            "date": "2025 - 2026",
+            "date": "Oct 2025 - May 2026",
             "url": "https://noturnsapp.org/"
         },
         {
@@ -81,7 +89,7 @@
             "title": "Soltel Group",
             "subtitle": "Desarrollador Full Stack",
             "description": "Principal desarrollollador de la aplicación móvil de la empresa. Desarrollo, diseño y despliegue de la app en producción. Mantenimiento de la aplicación y backend con Firebase, Node.js y Google Cloud Functions. Integración de pagos con Stripe y Revenuecat.",
-            "date": "2024 - 2025",
+            "date": "Jul 2024 - Jul 2025",
             "url": "https://www.soltel.es/"
         },
         {
@@ -89,7 +97,7 @@
             "title": "Fidetia",
             "subtitle": "Desarrollador becario",
             "description": "Me encargué del desarrollo de aplicaciones multiplataformas con flutter. Despliegue en tiendas oficiales (App Store, Play Store, Amazon Appstore) y en web mediante protocolo ftp (FileZilla). Desarrollo de backend con Node.js y Google Cloud Functions. Uso de gitlab para el control de versiones.",
-            "date": "2023 - 2024",
+            "date": "Abr 2023 - Jun 2024",
             "url": "https://www.fidetia.es/"
         },
         {
@@ -97,7 +105,7 @@
             "title": "Youforget.me",
             "subtitle": "Desarrollador en prácticas",
             "description": "Aprendí a usar el framework flutter para el desarrollo de aplicaciones multiplataformas. Me encargué del desarrollo y mantenimiento de la aplicación de la empresa.",
-            "date": "2022 - 2023",
+            "date": "Sep 2022 - Mar 2023",
             "url": "https://youforget.me/"
         }
     ],
